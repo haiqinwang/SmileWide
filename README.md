@@ -22,11 +22,11 @@ Contents
 --------
 
 <ul>
-    <li><a href="#how-to-build-the-software">Build instructions</a></li>
+    <li><a href="#how-to-build-the-software">How to build the software</a></li>
     <li><a href="#how-to-run-an-example-smile-wide-hadoop-job">How to run an example SMILE-WIDE Hadoop job</a></li>
     <li><a href="#how-to-test-hive-integration">How to test Hive integration</li>
 	<li><a href="#problems-and-solutions">Problems and solutions</li>
-    <li><a href="#how-to-generate-javadoc-api-documentation">Generating documentation</a></li>
+    <li><a href="#how-to-generate-javadoc-api-documentation">How to generate Javadoc API documentation</a></li>
 </ul>
 
 
@@ -110,7 +110,7 @@ hadoop jar smile-wide-0.0.1-SNAPSHOT-job.jar smile.wide.algorithms.em.RunDistrib
   em.separator=9 em.local.stat.file=em-local.txt
 ```
 
-The file <code>kiva.xdsl</code> is located in the project's <code>input</code> directory&semi; <code>pitt/kiva500k.txt</code> is in the compute cluster's HDFS.
+The file <code>kiva.xdsl</code> is located in the project's <code>input</code> directory; <code>pitt/kiva500k.txt</code> is in the compute cluster's HDFS.
 
 The output of the job is the local file named <code>em-tmp.xdsl</code>, containing the modified <code>kiva.xdsl</code> network with
 learned parameters.
