@@ -32,14 +32,14 @@ Contents
 
 Please contact the authors with any questions or problems:
 
-*<a href="mailto:&#115;&#104;&#111;&#111;&#108;&#116;&#122;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#115;&#104;&#111;&#111;&#108;&#116;&#122;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a></li>
+    * <a href="mailto:&#115;&#104;&#111;&#111;&#108;&#116;&#122;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#115;&#104;&#111;&#111;&#108;&#116;&#122;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a></li>
 
-*<strike><a href="nomailto:&#116;&#111;&#109;&#097;&#115;&#046;&#115;&#105;&#110;&#103;&#108;&#105;&#097;&#114;&#064;&#098;&#111;&#101;&#105;&#110;&#103;&#046;&#099;&#111;&#109;">&#116;&#111;&#109;&#097;&#115;&#046;&#115;&#105;&#110;&#103;&#108;&#105;&#097;&#114;&#064;&#098;&#111;&#101;&#105;&#110;&#103;&#046;&#099;&#111;&#109;</a></strike></li>
+    * <strike><a href="nomailto:&#116;&#111;&#109;&#097;&#115;&#046;&#115;&#105;&#110;&#103;&#108;&#105;&#097;&#114;&#064;&#098;&#111;&#101;&#105;&#110;&#103;&#046;&#099;&#111;&#109;">&#116;&#111;&#109;&#097;&#115;&#046;&#115;&#105;&#110;&#103;&#108;&#105;&#097;&#114;&#064;&#098;&#111;&#101;&#105;&#110;&#103;&#046;&#099;&#111;&#109;</a></strike></li>
 
 <!-- thanks to http://www.google.com/recaptcha/mailhide/ -->
-*rob cranfill<a href="http://www.google.com/recaptcha/mailhide/d?k=01Z8SMgbBZkzkDY2YgPKf1lw==&amp;c=4fFyZQPFFthx3W7IcyWhuwrFLpts6oYVdmOYzRyjvPk=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501Z8SMgbBZkzkDY2YgPKf1lw\75\75\46c\0754fFyZQPFFthx3W7IcyWhuwrFLpts6oYVdmOYzRyjvPk\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">&hellip;</a></li>
+    * rob cranfill<a href="http://www.google.com/recaptcha/mailhide/d?k=01Z8SMgbBZkzkDY2YgPKf1lw==&amp;c=4fFyZQPFFthx3W7IcyWhuwrFLpts6oYVdmOYzRyjvPk=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501Z8SMgbBZkzkDY2YgPKf1lw\75\75\46c\0754fFyZQPFFthx3W7IcyWhuwrFLpts6oYVdmOYzRyjvPk\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">&hellip;</a></li>
 
-*<a href="mailto:&#109;&#046;&#097;&#046;&#100;&#101;&#106;&#111;&#110;&#103;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#109;&#046;&#097;&#046;&#100;&#101;&#106;&#111;&#110;&#103;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a></li>
+    * <a href="mailto:&#109;&#046;&#097;&#046;&#100;&#101;&#106;&#111;&#110;&#103;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#109;&#046;&#097;&#046;&#100;&#101;&#106;&#111;&#110;&#103;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a></li>
 
 
 How to build the software
@@ -142,6 +142,7 @@ Hive's 'ADD FILE'. Some of SMILE-WIDE algorithms contain nontrivial local compon
 Hadoop's client JVM. In such case the shared library should be added to <code>$HADOOP_BIN/native directory</code>
 
 
+<a id="javadocs">
 How to generate Javadoc API documentation
 -----------------------------------------
 
