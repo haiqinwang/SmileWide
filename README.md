@@ -1,9 +1,5 @@
-README for the SMILE-WIDE project
-=================================
-
-
 Welcome to SMILE-WIDE
----------------------
+======================
 
 SMILE-WIDE is a <a href="http://en.wikipedia.org/wiki/Bayes_network">Bayesian network</a> library. 
 Initially, SMILE-WIDE is a version of the well known <a href="http://genie.sis.pitt.edu">SMILE library</a>, 
