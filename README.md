@@ -31,10 +31,11 @@ Please contact the authors with any questions or problems:
 
 <!-- thanks to http://www.google.com/recaptcha/mailhide/ -->
 
-* <a href="mailto:&#115;&#104;&#111;&#111;&#108;&#116;&#122;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#115;&#104;&#111;&#111;&#108;&#116;&#122;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a></li>
-* <a href="mailto:robert.e.cranfill@boeing.com">Rob Cranfill</a>
-* <a href="mailto:&#109;&#046;&#097;&#046;&#100;&#101;&#106;&#111;&#110;&#103;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#109;&#046;&#097;&#046;&#100;&#101;&#106;&#111;&#110;&#103;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a></li>
 * <a href="mailto:haiqin.wang@boeing.com">Haiqin Wang</a>
+* <a href="mailto:robert.e.cranfill@boeing.com">Rob Cranfill</a>
+* <a href="mailto:shooltz@gmail.com">Tomasz Sowinski</a>
+* <a href="mailto:m.a.dejongh@gmail.com">Martijn de Jongh</a>
+* <a href="mailto:marek@sis.pitt.edu">Marek Druzdzel</a>
 
 
 How to build the software
